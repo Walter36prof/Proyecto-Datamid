@@ -1,0 +1,221 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: arial;    
+  }  
+  
+  .controls {    
+    width: 47%;
+    border: 1px solid #017bab;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    background: whitesmoke;
+    font-size: 14px;
+    font-weight: normal;
+    float: left;
+  }
+
+  .calculonomina {
+    width: 800px;
+    height: 500px;
+    background: white;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 7px 13px 37px #017bab;
+    padding: 20px 30px;
+    border-top: 4px solid #017bab;
+    color: #6a6a6a;
+  }
+  
+  .calculonomina h5 {
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+  }
+
+  .calculonomina p{
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid;
+  }
+  
+  .calculonomina a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .calculonomina a:hover {
+    text-decoration: underline;
+  }
+
+  .calculonominaneto {
+    width: 800px;
+    height: 600px;
+    background: white;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 7px 13px 37px #017bab;
+    padding: 20px 30px;
+    border-top: 4px solid #017bab;
+    color: #6a6a6a;
+  }
+  
+  .calculonominaneto h5 {
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+  }
+  
+  .calculonominaneto p{
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid;
+  }
+  
+  .calculonominaneto a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .calculonominaneto a:hover {
+    text-decoration: underline;
+  }
+
+  .calculonominaexcel {
+    width: 800px;
+    height: 550px;
+    background: white;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 7px 13px 37px #017bab;
+    padding: 20px 30px;
+    border-top: 4px solid #017bab;
+    color: #6a6a6a;
+  }
+  
+  .calculonominaexcel h5 {
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+  }
+
+  .calculonominaexcel p{
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid;
+  }
+  
+  .calculonominaexcel a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .calculonominaexcel a:hover {
+    text-decoration: underline;
+  }
+
+  .calculoasimilados {
+    width: 400px;
+    height: 400px;
+    background: white;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 7px 13px 37px #017bab;
+    padding: 20px 30px;
+    border-top: 4px solid #017bab;
+    color: #6a6a6a;
+  }
+  
+  .calculoasimilados h5 {
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+  }
+
+  .calculoasimilados p{
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid;
+  }
+  
+  .calculoasimilados a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .calculoasimilados a:hover {
+    text-decoration: underline;
+  }
+
+  .controlsasimilados {    
+    width: 100%;
+    border: 1px solid #017bab;
+    border-radius: 8px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 11px 10px;
+    background: whitesmoke;
+    font-size: 14px;
+    font-weight: normal;
+    float: left;
+  }
+
+  .calculoptu {
+    width: 400px;
+    height: 450px;
+    background: white;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 7px 13px 37px #017bab;
+    padding: 20px 30px;
+    border-top: 4px solid #017bab;
+    color: #6a6a6a;
+  }
+  
+  .calculoptu h5 {
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+  }
+
+  .calculoptu p{
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid;
+  }
+  
+  .calculoptu a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .calculoptu a:hover {
+    text-decoration: underline;
+  }
