@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$database = "gawebsite";
+$database = "gawebsite3";
 $username = "root";
 $password = "";
 // Create connection
